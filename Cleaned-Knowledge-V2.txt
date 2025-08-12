@@ -1,0 +1,350 @@
+############################
+### CORE NUMBER DEFINITIONS ###
+############################
+
+### PSYCHIC NUMBER (DRIVER/TALENT NUMBER)
+**Calculation:** Calculated from the DAY of the month only, reduced to a single digit (e.g., for the 28th, it is 2+8=10 -> 1).
+**Meaning:** Informs about a person's talents, mentality, inner world, and perspective. Represents the "tool in hand." It is the a person's basic nature, which is never revealed easily.
+
+### DESTINY NUMBER (LIFE PATH/CONDUCTOR NUMBER)
+**Calculation:** The sum of the complete Date of Birth (DD+MM+YYYY), reduced to a single digit or master number.
+**Meaning:** Represents the "work to be done" throughout life. It is the life's purpose and the path one must walk to fulfill karma. The two numbers (Psyche and Destiny) work together, and success depends on their synchronization.
+
+### KUA NUMBER (FENG SHUI/LUCK NUMBER)
+**Calculation:** Based on Birth YEAR and GENDER. For FEMALES born in the 20th century (19xx): reduce the year digits (e.g., 1957 -> 5+7=12 -> 3), then add 4. (e.g., 3+4=7). For MALES born in the 20th century (19xx): reduce the year digits (e.g., 1968 -> 6+8=14 -> 5), then subtract from 11. (e.g., 11-5=6).
+**Meaning:** This number determines auspicious directions for success, health, and personal growth. It is used to find lucky colors and seasons. Calculation is considered 5-10% effective.
+
+###################################
+### MEANING OF THE NUMBERS (1-9) ###
+###################################
+
+### NUMBER 1 (Planet: SUN)
+**Keywords:** Independence, Ego, Leadership, Courage, Initiative, Money-Making Potential.
+**As Psychic Number:** Strong purpose and mindset, known for authority and individualism. Values freedom and creativity but can be obstinate.
+**In Lo Shu Grid:** Signifies good communication, money, and good lifestyle as it is the central number of the practical plane. One 1 faces difficulty in verbal communication. Two 1s allow easy and fluent expression and financial acumen. Three 1s are very sensitive, caring, and often talkative. Four 1s can be misunderstood and anxious. Five or more 1s may have difficulty expressing emotions and may over-indulge.
+**Health:** Can have issues with the heart, back pain (lower and upper), and high blood pressure. Anger issues can affect the liver.
+
+### NUMBER 2 (Planet: MOON)
+**Keywords:** Tact, Diplomacy, Sensitivity, Cooperation, Intuition.
+**As Psychic Number:** Sensitive, artistic, and nurturing but may struggle with execution and need external guidance. Emotional fluctuations and moodiness are common traits.
+**In Lo Shu Grid:** Reveals sensitivity and intuition. The age of Aquarius means every person in the 21st century will have at least one 2. One 2 means caring, intelligent, but easily hurt. Two 2s indicate high intelligence and double intuition. Three 2s makes a person more intuitive and sensitive, but can lead to being vulnerable.
+**Health:** Governed by the Moon, hence calmness, coldness, and softness is seen. Prone to mental conditions, anxiety, stress, depression, and phobias. Improper blood circulation can cause Anemia.
+
+### NUMBER 3 (Planet: JUPITER)
+**Keywords:** Self-expression, Communication, Creativity, Optimism, Intellectual Capacity.
+**As Psychic Number:** Dynamic, independent, ambitious, and hard-working. Enjoys initiating projects, are adept conversationalists, and have a keen sense of responsibility.
+**In Lo Shu Grid:** Number of great intellectual capacity, sensitivity, memory, and happiness. One 3 signifies a good creative brain with excellent memory. Two 3s means balanced mentality, strong personality, and have an imaginative and very creative brain. Three 3s can live in an imaginary bubble and be not good listeners.
+**Health:** Governed by the Jupiter planet. Prone to issues of the liver, pituitary glands, thigh, and knee. Skin rashes and skin itch can be problematic.
+
+### NUMBER 4 (Planet: RAHU)
+**Keywords:** Hard work, Discipline, Stability, Logic, Caution.
+**As Psychic Number:** Often experience sudden life changes, making them wary and reliant on others' advice. Conscientious supporters of the underdog.
+**In Lo Shu Grid (Missing):** Difficulty working to a set routine. Frequently disorganized and lacking motivation. Need to learn to be better organized.
+**Health:** Can suffer from hematological (blood-related) issues, stomach and intestines problems. They can attract accidents and illness. Prone to addiction.
+
+### NUMBER 5 (Planet: MERCURY)
+**Keywords:** Change, Freedom, Variety, Communication, Emotional Stability.
+**As Psychic Number:** Gentle, intelligent, social, and spontaneous but struggle with long-term planning. They have strong intuition about others' intentions.
+**In Lo Shu Grid:** Central number of emotional stability. Needs freedom and space. One 5 means well-balanced emotional sensitivity. Two 5s are passionate, strong-minded, and risk-taking.
+**Health:** Can have problems related to the respiratory system, mouth, brain and nervous system. Can suffer from mental restlessness, insomnia, and weakness of limbs.
+
+### NUMBER 6 (Planet: VENUS)
+**Keywords:** Home, Responsibility, Humanitarianism, Love, Creativity.
+**As Psychic Number:** Magnetic, artistic, and refined, with a natural charm that attracts others. Their love for beauty extends to their homes.
+**In Lo Shu Grid (Missing):** Need to learn to give more of themselves. Tend to hide their innermost feelings.
+**Health:** Can suffer from issues around the throat, chin, neck, and kidneys. Prone to Urinary Tract Infections. Family issues can compromise their mental and physical health.
+
+### NUMBER 7 (Planet: KETU)
+**Keywords:** Analysis, Wisdom, Spirituality, Sacrifice, Intuition.
+**As Psychic Number:** Face indecisiveness and disruptive behaviors, but many succeed in arts and sciences, showing a unique blend of spirituality, creativity, and kindness.
+**In Lo Shu Grid:** Represents learning through hardships, sacrifice, and difficulties. This can lead to frustrations, disappointments, and losses. With lessons learned, they become more inclined towards spiritual fields.
+**Health:** Prone to infection in blood, RBC formation & destruction, immunity issues. Bad condition of joints in old age. Their mental state is stronger than physical.
+
+### NUMBER 8 (Planet: SATURN)
+**Keywords:** Materialism, Money, Power, Hard Work, Determination.
+**As Psychic Number:** Signifies confidence, determination, and resilience. Often misunderstood, serious, and hard-working. Their lives are filled with struggles and challenges that they tackle with persistence.
+**In Lo Shu Grid (Missing):** Poor at handling financial matters. Can be overly careless or too trusting. Lack motivation and leave tasks unfinished.
+**Health:** Liver, bile, lungs, and digestion can be problematic. Governs nails, joints, hairs, teeth, kidneys. Prone to over-headedness which leads to headaches, mental dizziness, anxiety, fears, and phobias.
+
+### NUMBER 9 (Planet: MARS)
+**Keywords:** Humanitarianism, Completion, Idealism, Ambition.
+**As Psychic Number:** Energetic, competitive, and restless, often pursuing their goals with aggression and resolve. Prone to impulsivity and struggle with emotional control. Possess strong leadership qualities.
+**In Lo Shu Grid:** Number to serve others, philanthropic, and humanitarian approach. A very lucky and divine number.
+**Health:** Prone to fever, measles, chicken pox, and other kidney-related issues. Diseases caused will be hard to control. Issues are related to their head, blood, and bone marrow.
+
+########################################
+### THE LO SHU GRID & PLANES OF EXISTENCE ###
+########################################
+
+### The Lo Shu Grid
+**Origin:** The magic number grid found on the back of a tortoise 4000 years ago. Each row forms 15 when added. The original Chinese positions are 4-9-2 (top), 3-5-7 (middle), 8-1-6 (bottom).
+**Western Version:** The positions are different. Top row: 3, 6, 9. Middle row: 2, 5, 8. Bottom row: 1, 4, 7. This is the version most commonly used in Westernized Chinese and Pythagorean numerology.
+
+### Mental/Intellectual Plane (Top Row)
+**Meaning:** Represents the head, thinking, creating, imagining, and analyzing. In Eastern systems, it relates to sunshine and rain, the elements for growth.
+
+### Emotional/Spiritual Plane (Middle Row)
+**Meaning:** Represents the body/heart. Includes spirituality, intuition, feelings, and emotions. In Eastern systems, it represents the crops that grow from the soil.
+
+### Practical/Material Plane (Bottom Row)
+**Meaning:** Represents the legs/feet and physical action. Encompasses physical labor, being good with one's hands, and business success. In Eastern systems, it represents the soil itself.
+
+###########################################
+### ARROWS OF STRENGTH & WEAKNESS ###
+###########################################
+
+### ARROW OF THE PLANNER (Western: 1, 2, 3)
+**Meaning:** Well-organized people who enjoy planning ahead. Weakness is being undisciplined with details. Good communicators and studious.
+
+### ARROW OF WILLPOWER (Eastern: 1, 5, 9)
+**Meaning:** People with this arrow are stubborn, persistent, and determined. Regarded as a symbol of success because they persist until they reach their goals.
+
+### ARROW OF DETERMINATION (Western: 1, 5, 9)
+**Meaning:** Makes people determined and persistent. They are enterprising, intense, and progressive. They are patient and prepared to wait for what they have set their minds on.
+
+### ARROW OF CONFUSION (Weakness: Missing 8, 3, 4 - Eastern)
+**Meaning:** Occupies the left-hand vertical column. People with this arrow are not logical, methodical, or organized. They live from day to day and often sabotage long-term plans.
+
+### ARROW OF FRUSTRATION (Weakness: Missing 4, 5, 6 - Western)
+**Meaning:** Reveals a divided birth chart and a weak will. Frustration is unfulfilled expectation. These people often expect more from others than they are prepared to give.
+
+### ARROW OF PEACE OF MIND (Strength: 7 and 9 - Eastern)
+**Meaning:** People with this combination are positive, confident, and have a strong faith. The logic of the 9 helps the spirituality of the 7. They can face difficult situations with equanimity.
+
+#############################
+### THE FIVE ELEMENTS & CURES ###
+#############################
+
+### THE PRODUCTIVE CYCLE
+Wood burns, creating fire. Fire leaves earth. Earth yields metal. Metal liquifies like water. Water nurtures wood.
+
+### THE DESTRUCTIVE CYCLE
+Wood draws from earth. Earth pollutes water. Water puts out fire. Fire melts metal. Metal destroys wood.
+
+### ELEMENT & NUMBER MAPPING
+- **Water:** 1
+- **Earth:** 2, 5, 8
+- **Wood:** 3, 4
+- **Metal:** 6, 7
+- **Fire:** 9
+
+### NUMEROLOGY CURES
+**Concept:** It is believed that missing numbers in the chart can be "cured" or corrected by surrounding yourself with objects made of the element associated with that number.
+- **Wood (Missing 3 or 4):** Surround yourself with living wood (trees, plants) or wooden objects. Relates to creativity.
+- **Fire (Missing 9):** Surround yourself with bright objects, light, and the color red. Relates to enthusiasm, excitement, and motivation.
+- **Earth (Missing 2, 5, or 8):** Surround yourself with objects from the ground that are not metal, like quartz crystals. Relates to stability and goals.
+- **Metal (Missing 6 or 7):** Surround yourself with metal objects (gold, silver rings/bracelets). Relates to valor and the ability to stand up for oneself.
+- **Water (Missing 1):** Use the color blue or black, or water features like an aquarium. Relates to communication with others.
+
+############################
+### KARMIC NUMBERS ###
+############################
+
+### HIGHLY KARMIC NUMBER 11/2
+**Meaning:** Number of Double Personality & Double Impact. Not successful in relationships. Their life is tough and filled with challenges. Surrender, Acceptance, Meditation, and Awareness are the methods by which they can find Peace.
+
+### SEMI-KARMIC NUMBER 13/4
+**Meaning:** Newness of 1 and Creativity of 3 makes the person Constructive. But 4 makes one Distracted & Confused. A period of disappointment and restricted behavior. Requires deep meditation & discipline. Monetary gains, but spiritual loss.
+
+### SEMI-KARMIC NUMBER 14/5
+**Meaning:** Indicates Past Life freedom abuse. Unexpected shifts in circumstances keep appearing. Restless personalities. Delays, interruption in Work, and Misuse of Talent are seen. Be prepared for the roller coaster rides in life & be precise and focused.
+
+### HIGHLY KARMIC NUMBER 16/7
+**Meaning:** Indicates Death & have New Birth. Number of Spiritual Rebirth, Awakening, and Destruction of the old self. Difficulties in Relationships & Partnership. Number which indicates Anti Ego, High in Spiritualism, Intuitive & High Intellectual Level.
+
+### SEMI-KARMIC NUMBER 19/1
+**Meaning:** Self Imposed Independence. Forced to Stand Up for themselves, Left to stand out alone. Stubborn, Resist help & Don't want to listen to others. Due to the illusionary Condition in Number 1 & 9 Selfishness, Over Proudness, Misuse of Abilities & Over Ambitiousness is there.
+
+###########################
+### KUA NUMBER & FENG SHUI ###
+###########################
+
+### KUA NUMBER CALCULATION
+**For Males (born before 2000):** Take the last two digits of the birth year, add them together until you get a single digit. Subtract that single digit from 10. The result is the KUA Number.
+**For Females (born before 2000):** Take the last two digits of the birth year, add them together until you get a single digit. Add 5 to that single digit. If the result is two digits, reduce it to a single digit. That is the KUA Number.
+**For Births After 2000:** For Males, use 9 instead of 10. For Females, use 6 instead of 5.
+**Special Case:** If the final Kua Number is 5, it becomes Kua 2 for Males and Kua 8 for Females.
+
+### KUA NUMBER GROUPS & DIRECTIONS
+- **East Group (Kua Numbers 1, 3, 4, 9):** Favorable Directions are North, East, South, Southeast.
+- **West Group (Kua Numbers 2, 5, 6, 7, 8):** Favorable Directions are Northeast, West, Northwest, Southwest.
+
+### BENEFITS OF USING YOUR KUA NUMBER
+- **Better sleep & health:** Align your bed/head position toward your favorable directions.
+- **Career growth:** Face one of your favorable directions while working.
+- **Wealth attraction:** Set up your cash flow area (like your desk or safe) in a supportive zone.
+- **Harmonious relationships:** Position dining and living areas to support love energy.
+
+### KUA NUMBER 1 – The Leader (Water Element)
+**Personality:** Creative, wise, adaptable, calm, introspective.
+**Strengths:** Strong intuition, excellent communication skills, deep thinkers.
+**Weaknesses:** Can become overly emotional or secretive.
+**Careers:** Writing, counseling, leadership roles.
+**Lucky Element:** Water, Metal.
+
+### KUA NUMBER 2 – The Nurturer (Earth Element)
+**Personality:** Reliable, nurturing, supportive, patient.
+**Strengths:** Hardworking, loyal, family-oriented.
+**Weaknesses:** Can be over-caring and neglect personal needs.
+**Careers:** Caregiving, real estate, hospitality.
+**Lucky Element:** Earth, Fire.
+
+### KUA NUMBER 3 – The Energizer (Wood Element)
+**Personality:** Energetic, ambitious, outgoing, growth-driven.
+**Strengths:** Motivated, optimistic, natural leaders.
+**Weaknesses:** Impatient, can be aggressive or impulsive.
+**Careers:** Entrepreneurs, athletes, public speakers.
+**Lucky Element:** Wood, Water.
+
+### KUA NUMBER 4 – The Planner (Wood Element)
+**Personality:** Diplomatic, calm, intellectual, adaptable.
+**Strengths:** Detail-oriented, creative, persuasive.
+**Weaknesses:** May lack focus or confidence at times.
+**Careers:** Writers, planners, designers, researchers.
+**Lucky Element:** Wood, Water.
+
+### KUA NUMBER 5 (Special)
+**Personality:** For Males, use the traits of Kua 2. For Females, use the traits of Kua 8.
+
+### KUA NUMBER 6 – The Mentor (Metal Element)
+**Personality:** Strong, disciplined, authoritative, responsible.
+**Strengths:** Organized, natural problem-solvers, reliable.
+**Weaknesses:** Can be rigid, perfectionist, or unemotional.
+**Careers:** Leadership, law, finance, teaching.
+**Lucky Element:** Metal, Earth.
+
+### KUA NUMBER 7 – The Diplomat (Metal Element)
+**Personality:** Charming, sociable, persuasive, stylish.
+**Strengths:** Good communicators, adaptable, networkers.
+**Weaknesses:** May lack depth, can be easily distracted.
+**Careers:** Sales, media, fashion, entertainment.
+**Lucky Element:** Metal, Earth.
+
+### KUA NUMBER 8 – The Protector (Earth Element)
+**Personality:** Stable, disciplined, trustworthy, focused.
+**Strengths:** Hardworking, loyal, solid decision-makers.
+**Weaknesses:** Can be inflexible and overly cautious.
+**Careers:** Finance, property, security, education.
+**Lucky Element:** Earth, Fire.
+
+### KUA NUMBER 9 – The Visionary (Fire Element)
+**Personality:** Charismatic, passionate, creative, idealistic.
+**Strengths:** Visionary, inspiring, energetic.
+**Weaknesses:** Prone to burnout, can be overly sensitive.
+**Careers:** Artists, performers, motivational leaders.
+**Lucky Element:** Fire, Wood.
+
+###################################################
+### CAREER PATH WITH NUMEROLOGY KNOWLEDGE BASE ###
+###################################################
+
+### INTRODUCTION
+Numerology offers a unique lens to explore professional paths, understanding career potential through various numbers. It should be used as a supplement to practical career planning, not the sole factor.
+
+#######################################
+### MOOLANK (DRIVER NUMBER): INNATE TALENTS ###
+#######################################
+
+**Calculation:** Reduce your day of birth to a single digit (e.g., 14th -> 1+4=5).
+
+### MOOLANK 1 (Sun)
+**Personality:** Natural leaders, ambitious, independent.
+**Ideal Careers:** Entrepreneurship, business management, consulting, innovation, leadership roles, public administration, finance.
+**Government Jobs:** Strong potential for high-ranking administrative positions like IAS and IPS.
+**Current Market Relevance:** Inherent leadership is a significant asset in management and startup environments.
+
+### MOOLANK 2 (Moon)
+**Personality:** Cooperative, diplomatic, excels in collaborative environments.
+**Ideal Careers:** Counseling, human resources, teaching, social work, diplomatic roles, nursing, healing professions.
+**Art/Music:** Creative and imaginative qualities make careers in music and other arts a strong possibility.
+**Current Market Relevance:** Diplomatic nature is highly valued in client-facing roles and team management.
+
+### MOOLANK 3 (Jupiter)
+**Personality:** Creative, expressive, natural communicator.
+**Ideal Careers:** Writing, journalism, acting, music, advertising, entertainment, training, public speaking.
+**Data Analysis:** Creative thinking can be applied to data visualization and storytelling.
+**Current Market Relevance:** High demand for content creators and strategists.
+
+### MOOLANK 4 (Rahu)
+**Personality:** Practical, organized, detail-oriented, systematic.
+**Ideal Careers:** Engineering, banking, accounting, project management, law, government, politics.
+**Data Engineering:** Systematic and detail-oriented approach is ideal for data engineering.
+**Medicine:** Presence of number 4 is beneficial for a career in medicine (Doctor).
+**Current Market Relevance:** Stability and structure are found in established corporate roles and public sector jobs.
+
+### MOOLANK 5 (Mercury)
+**Personality:** Energetic, adaptable, loves freedom and variety.
+**Ideal Careers:** Sales, marketing, public relations, event planning, careers involving travel (e.g., tour guide), writing, photography.
+**Current Market Relevance:** Adaptability is well-suited for dynamic tech industry roles requiring cross-disciplinary knowledge.
+
+### MOOLANK 6 (Venus)
+**Personality:** Compassionate, service-oriented, strong sense of responsibility.
+**Ideal Careers:** Healthcare, education, social work, nurturing professions (teaching, counseling), arts, design, fashion.
+**Current Market Relevance:** Surge in demand for UX/UI and product designers aligns with aesthetic eye.
+
+### MOOLANK 7 (Ketu)
+**Personality:** Analytical, introspective, deep thinker.
+**Ideal Careers:** Research, academia, philosophy, psychology, IT specializations, writing, editing, journalism.
+**Data Analysis/Engineering:** Analytical mind is perfectly suited for data analysis, research, and deep-tech fields.
+**Medicine:** An additional number 7 can provide mental strength for a successful medical career (Doctor).
+**Current Market Relevance:** Data science job market has high demand for professionals who can analyze and interpret complex data.
+
+### MOOLANK 8 (Saturn)
+**Personality:** Ambitious, disciplined, strong financial acumen.
+**Ideal Careers:** Business leadership, corporate management, finance, banking, real estate, law.
+**Government Jobs:** Managerial skills lead to high-authoritative government positions, including judge or government lawyer.
+**Current Market Relevance:** Natural inclination towards finance and management aligns well with high-stakes corporate environments.
+
+### MOOLANK 9 (Mars)
+**Personality:** Courageous, energetic, strong humanitarian spirit.
+**Ideal Careers:** Humanitarian work, social services, healthcare, advocacy.
+**Military/Defense:** Courage and energy make it a prime indicator for a successful career in armed forces or police.
+**Medicine (Surgery):** Considered essential for becoming a surgeon due to the courage required for operations.
+**Current Market Relevance:** Desire to serve can be fulfilled in public service and non-profit sector.
+
+#############################################
+### BHAGYANK (DESTINY NUMBER): LIFE'S PURPOSE ###
+#############################################
+
+**Calculation:** Sum all digits of full DOB (DD-MM-YYYY) and reduce to a single digit (e.g., 22-04-2025 -> 2+2+0+4+2+0+2+5 = 17 -> 1+7 = 8. Bhagyank is 8).
+**Career Alignment:** Career paths associated with each Bhagyank are largely similar to those of the Moolank, as they both indicate innate talents and life purposes. A harmonious combination of Moolank and Bhagyank strengthens the indicated career paths (e.g., Moolank 1 and Bhagyank 1 is ideal for leadership and entrepreneurship).
+
+####################################
+### THE LO SHU GRID: LIFE BLUEPRINT ###
+####################################
+
+**Structure:** A 3x3 grid where numbers from your DOB, Mulyank, Bhagyank, and Kua Number are placed in their fixed positions (omit 0).
+**Fixed Positions:**
+4 | 9 | 2
+3 | 5 | 7
+8 | 1 | 6
+
+### INTERPRETING THE LO SHU GRID FOR CAREER
+**Number 1 (Career and Communication):** Represents self-expression and leadership abilities. Crucial for a strong career foundation.
+**Government Jobs:** Presence of numbers 1, 3, and 9 is important for government service. A combination of numbers 1 (Sun - representing government) and 8 (Saturn - representing law) can indicate success as a judge or government lawyer. Research on government jobs often looks for specific numerical combinations within the grid.
+**Missing Numbers:** Highlight challenges or areas that need development. A missing 1 might indicate a need to work on communication and career planning.
+
+### PLANES OF THE GRID & CAREER FOCUS
+**Mental Plane (4-9-2):** Focus on thinking and creativity.
+**Emotional Plane (3-5-7):** Focus on intuition and emotional strength.
+**Practical Plane (8-1-6):** Focus on practicality and physical action.
+**Thought Plane (4-3-8):** Ability to generate ideas.
+**Will Plane (9-5-1):** Determination and perseverance.
+**Action Plane (2-7-6):** Turning ideas into reality.
+**Balance:** A balanced grid across these planes suggests a harmonious life and ability to succeed in your chosen field.
+
+########################################
+### KUA NUMBER: ALIGNING ENVIRONMENT FOR SUCCESS ###
+########################################
+
+**Meaning:** Determines favorable and unfavorable directions. Aligning your workspace with your success direction enhances productivity, focus, and career advancement.
+
+### USING YOUR KUA NUMBER FOR CAREER
+**Favorable Directions:** Each Kua number has auspicious directions for wealth, health, relationships, and success.
+**Workspace Alignment:** Position your desk to face your "Sheng Chi" (success) direction to attract positive energy for career growth and achievements.
+**Career Compatibility by Element:** Your Kua number is associated with an element (Water, Wood, Fire, Earth, Metal) which can suggest compatible industries. For example, Kua number 1 (Water element) is favorable for careers in hospitality, tourism, and marketing.
+
+################
+### DISCLAIMER ###
+################
+Numerology is a fascinating tool for self-discovery and guidance. It should not be the sole factor in career decisions. It is best used as a fun and insightful supplement to practical career planning, skill development, and hard work. Your success in any field ultimately depends on your dedication and efforts.

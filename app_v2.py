@@ -135,18 +135,7 @@ st.warning(
     """
 )
 
-# Sources/Attribution Section
-st.subheader("📚 Sources & Attribution")
-st.info(
-    """
-    This project's numerological knowledge base is meticulously curated from and inspired by the following authoritative texts:
-    -   **"The Complete Book of Numerology" by David A. Phillips, Ph.D.**
-    -   **"Chinese Numerology Report" (provided content)**
-    -   **"Advance Numerology" by Harish Johari** (sections pertaining to Vedic/Eastern Numerology, Psychic Numbers, Destiny Numbers, Kua Numbers, and related concepts).
 
-    Special thanks to these authors for their foundational work in the field of numerology.
-    """
-)
 
 # Contact Information
 st.subheader("📧 Contact Us")

@@ -1,6 +1,7 @@
 # AI-Powered Vedic & Chinese Numerology Platform
 
-## Project Overview
+##url https://vedicnumerology.streamlit.app/
+## Project Overview 
 This project is an interactive web application that provides personalized numerology and career guidance. It synthesizes principles from both Vedic (Indian) and Western Chinese numerology systems, offering a unique and comprehensive perspective on an individual's life path, innate talents, potential challenges, and environmental alignments.
 
 The application leverages a large language model (LLM) powered by Google's Gemini AI, utilizing a custom-curated knowledge base derived from authoritative numerology texts.
@@ -73,4 +74,5 @@ To run this project locally on your machine, follow these steps:
 ### Running the Application
 To launch the web application:
 ```bash
+
 streamlit run app_v2.py
